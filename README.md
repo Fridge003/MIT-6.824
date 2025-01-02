@@ -10,11 +10,12 @@ Sp 20 Course Videos: [youtube link](https://www.youtube.com/watch?v=cQP8WApzIQQ&
 ## Notes (Sp20 Version)
 [Lecture 1: Introduction](http://nil.csail.mit.edu/6.824/2020/notes/l01.txt)
 
+[Lecture 2: RPC and Threads](http://nil.csail.mit.edu/6.824/2020/notes/l-rpc.txt) /
+[Go FAQ](http://nil.csail.mit.edu/6.824/2020/papers/tour-faq.txt)
+
 
 ## Labs (Sp24 Version)
 [Lab 1: Map Reduce](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)
-
-
 
 ## Papers
 [MapReduce (2004)](http://nil.csail.mit.edu/6.824/2020/papers/mapreduce.pdf)

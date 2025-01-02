@@ -7,8 +7,7 @@ Sp 24 Website: [link](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 Sp 20 Course Videos: [youtube link](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
-## Notes
-
+## Notes (Sp20 Version)
 [Lecture 1: Introduction](http://nil.csail.mit.edu/6.824/2020/notes/l01.txt)
 
 
@@ -18,5 +17,7 @@ Sp 20 Course Videos: [youtube link](https://www.youtube.com/watch?v=cQP8WApzIQQ&
 
 
 ## Papers
-
 [MapReduce (2004)](http://nil.csail.mit.edu/6.824/2020/papers/mapreduce.pdf)
+
+## Materials
+[Online Go Tutorial](https://go.dev/tour/welcome/1)
